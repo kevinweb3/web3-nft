@@ -1,3 +1,4 @@
+// 铸币脚本文件，或者直接在Remix部署脚本和执行合约铸币函数
 require('dotenv').config();
 const ethers = require('ethers');
 const contract = require("../artifacts/contracts/MyNFT.sol/MyNFT.json");
